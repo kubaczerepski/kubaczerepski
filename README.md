@@ -1,4 +1,4 @@
-
+Witaj, Jestem Kuba 👋
 - 🔭 Frontend Developer
 - 🌱 Aktualnie uczę się Reacta 
 - 👯 Jestem otwarty na współpracę oraz projekty opensource
