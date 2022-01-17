@@ -1,7 +1,7 @@
 Welcome, I'm Jacob 👋
 - 🔭 Frontend Developer
 - 🌱 Learning React in progress...
-- 👯 I'm open to work offers
+- 💻 I'm open to work offers
 - 📫 Contact : contact@kubaczerepski.pl
 - 🌐 Website : www.kubaczerepski.pl
  <div style = "display:inline-block; padding:10px;">
